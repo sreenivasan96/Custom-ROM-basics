@@ -1,2 +1,2 @@
-phoenix-jordon
+#Custom ROM creating and managing basics
 ==============
